@@ -4,7 +4,7 @@
 https://github.com/IDMiller2020/trafic_light_exercise
 
 ## Daily Challenge - Afternoon:
-
+https://github.com/IDMiller2020/site-clone
 
 
 ## Daily Journal:
