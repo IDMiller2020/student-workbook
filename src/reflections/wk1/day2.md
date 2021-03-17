@@ -1,6 +1,9 @@
 # Day 2 - HTML/CSS
 
-## Daily Journal
+## Daily Challenge:
+https://github.com/IDMiller2020/resume-assignment
+
+## Daily Journal:
 
 ## Read Building Blocks Of Web Development > CSS and answer the following questions:
 
