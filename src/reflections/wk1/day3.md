@@ -1,10 +1,11 @@
 # Day 3 - Building With Bootstrap
 
 ## Daily Challenge - Morning:
-https://github.com/IDMiller2020/trafic_light_exercise
+[Bootstrap Trafic Light Challenge](https://github.com/IDMiller2020/trafic_light_exercise)
+
 
 ## Daily Challenge - Afternoon:
-https://github.com/IDMiller2020/site-clone2
+[Bootstrap Site Clone Assignment](https://github.com/IDMiller2020/site-clone2)
 
 
 ## Daily Journal:

@@ -1,7 +1,8 @@
 # Day 2 - HTML/CSS
 
 ## Daily Challenge:
-https://github.com/IDMiller2020/resume-assignment
+[HTML and CSS Resume Assignment](https://github.com/IDMiller2020/resume-assignment)
+
 
 ## Daily Journal:
 
