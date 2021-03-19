@@ -1,7 +1,7 @@
 # Day 4 - Wire-Framing, Design Tools and Review
 
 ## Daily Challenge - Morning:
-*Worked through [FlexBox Froggy](https://flexboxfroggy.com/).*
+*Played [FlexBox Froggy](https://flexboxfroggy.com/).*
 <br> <br>
 
 ## Daily Challenge - Afternoon:
