@@ -62,11 +62,11 @@ font-weight
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+A property that allows the use of many different alignment and justification options within elements.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Width, height and margin.
 ```
