@@ -5,7 +5,7 @@
 <br> <br>
 
 ## Daily Challenge - Afternoon:
-
+[Week One Checkpoint Assignment](https://idmiller2020.github.io/week1-checkpoint/)
 <br> <br>
 
 ## Daily Journal:
