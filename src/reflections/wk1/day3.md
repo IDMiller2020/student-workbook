@@ -13,7 +13,7 @@
 ## Read Building Blocks Of Web Development > Cheating At Design and answer the following questions: <br>
 
 1. What is your favorite tip that you think is the most beneficial to improving your design? <br>
-*So far I am most excited about learning/becoming familiar with Bootstrap to speed up programming.  I'm also amazed at all the keyboard shortcuts available that I had no idea existed.*
+*So far I am most excited about learning/becoming familiar with Bootstrap to speed up programming.  I'm also amazed at all the keyboard shortcuts available that I had no idea existed.* <br>
 
 2. Compile a couple resources that you think might be helpful when trying to review examples of good design ideas. <br>
 - [Nice Page](https://nicepage.com/website-templates)
