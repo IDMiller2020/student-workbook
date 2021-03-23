@@ -1,8 +1,11 @@
 # Day 1 - Intro to JavaScript
 
 ## Daily Challenge - Morning:
+*Sprint Planning* <br> <br>
 
 ## Daily Challenge - Afternoon:
+[JavaScript Basics Testing Published Page](https://idmiller2020.github.io/spring21-js-tests-basics/.) <br>
+[JavaScript Basics Testing Code Files](https://github.com/IDMiller2020/spring21-js-tests-basics/settings) <br> <br>
 
 ## Daily Journal:
 ## Read Intro to JS > Var, let and const and answer the following questions:
