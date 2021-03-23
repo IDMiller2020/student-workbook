@@ -1,6 +1,7 @@
 # Day 2 - JavaScript Functions, Objects, and Loops:
 
 ## Daily Challenge - Morning:
+[Objects Practice](https://github.com/IDMiller2020/week2_Day2_morning_challenge)
 <br> <br>
 
 ## Daily Challenge - Afternoon:
