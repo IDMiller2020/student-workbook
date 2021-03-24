@@ -1,6 +1,7 @@
 # Day 3 - Interacting with the DOM and Events:
 
 ## Daily Challenge - Morning:
+[Create Function to Determine Even or Odd](https://github.com/IDMiller2020/day3-morning-challenge)
 <br> <br>
 
 ## Daily Challenge - Afternoon:
