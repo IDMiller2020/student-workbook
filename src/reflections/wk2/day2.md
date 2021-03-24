@@ -5,6 +5,8 @@
 <br> <br>
 
 ## Daily Challenge - Afternoon:
+[JavaScript Basics Testing II Published Page](https://idmiller2020.github.io/week2_day2_afternoon_challenge/) <br>
+[JavaScript Basics Testing II Code Files](https://github.com/IDMiller2020/week2_day2_afternoon_challenge)
 <br> <br>
 
 ## Daily Journal:
