@@ -8,7 +8,7 @@
 [JavaScript Basics Testing Code Files](https://github.com/IDMiller2020/spring21-js-tests-basics) <br> <br>
 
 ## Daily Journal:
-## Read Intro to JS > Var, let and const and answer the following questions:
+## Read Intro to JS > [Var, let and const](https://codeworksacademy.com/fs-student-guide/resources/wk2/01-Let-Var-Const/) and answer the following questions:
 1. What is Scope? <br>
 *Scope is the part of the program in which a variable is defined.  For instance for a variable defined within a functhion, that variable would only be available within the function (function scope).  A variable defined outside a function in the main part of the program, would be available everywhere (global scope).*
 
