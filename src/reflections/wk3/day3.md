@@ -1,7 +1,7 @@
 # Day 3 - FORMS AND TEMPLATES:
 
 ## Daily Challenge - Morning:
-[Palindrome]()
+[Palindrome](https://github.com/IDMiller2020/week3-day3-morning-challenge)
 <br> <br>
 ## Daily Project:
 [GregsList]()
