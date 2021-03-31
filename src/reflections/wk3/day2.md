@@ -1,13 +1,15 @@
 # Day 2 - ENCAPSULATION:
 
 ## Daily Challenge - Morning:
-[Longest Word]()
+[Longest Word Git Hub Files](https://github.com/IDMiller2020/day2)
 <br> <br>
 ## Daily Project:
-[Encapsulated SlapGame]()
+[Encapsulated SlapGame](https://github.com/IDMiller2020/spring21-slapgame)
 <br> <br>
 ## Daily Challenge - Afternoon:
-[Vendr]()
+[Vendr](https://idmiller2020.github.io/vendr/) <br>
+[Vendr Git Hub Code](https://github.com/IDMiller2020/vendr)
+
 <br><br>
 
 ## Daily Journal:
@@ -20,4 +22,5 @@
 *Within a Class you would the # prefix to create a private variable.  You would use this if you didn't want the variable to be accessible from outside the Class.* <br>
 
 ## Fireside - Helpful Tools Tuesday
-More in depth tools for UXUI; sweet alert, bootstrap modals, collapseables in a fun app.
+More in depth tools for UXUI; sweet alert, bootstrap modals, collapseables in a fun app. <br>
+*In todays Fireside we created an encapsulated version of the Moon Miner game.  This was a very beneficial demonstration since I am still struggling with the MVC file structure and figuring out how to write programs using this structure.*
