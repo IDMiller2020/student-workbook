@@ -1,13 +1,14 @@
 # Day 4 - WORKING IN MVC WITH COMPLEX DATA, ARRAY METHODS:
 
 ## Daily Challenge - Morning:
-[Street Grid Challenge]()
+*Street Grid Challenge - Group Challenge*
 <br> <br>
 ## Daily Project:
-[Pizza Shack]()
+[Pizza Shack](https://github.com/BoiseCodeWorks/spring21-pizzashack)
 <br> <br>
 ## Daily Challenge - Afternoon:
-[Darryl's Sporting Goods]()
+[Darryl's Sporting Goods](https://idmiller2020.github.io/darryls-sporting-goods/) <br>
+[Darryl's Sporting Goods Git Hub Files](https://github.com/IDMiller2020/darryls-sporting-goods)
 <br><br>
 
 ## Daily Journal:
@@ -20,4 +21,5 @@
 ** <br>
 
 ## Fireside - Thursday Rebuild
-Tonights fireside will consist of rebuilding one of the afternoon assignments from the week.
+Tonights fireside will consist of rebuilding one of the afternoon assignments from the week. <br>
+*Did not stay for the Thursday Rebuild this week.*

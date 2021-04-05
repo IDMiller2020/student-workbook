@@ -4,10 +4,11 @@
 [Palindrome](https://github.com/IDMiller2020/week3-day3-morning-challenge)
 <br> <br>
 ## Daily Project:
-[GregsList]()
+[GregsList](https://github.com/BoiseCodeWorks/spring21-gregslist)
 <br> <br>
 ## Daily Challenge - Afternoon:
-[Extended GregsList]()
+[Extended GregsList](https://idmiller2020.github.io/spring21-gregslist/) <br>
+[Extended GregsList Git Hub Files](https://github.com/IDMiller2020/spring21-gregslist)
 <br><br>
 
 ## Daily Journal:
