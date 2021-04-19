@@ -1,4 +1,4 @@
-# Day 2 - RELATIONSHIPS:
+# Day 3 - RELATIONSHIPS:
 
 ## Daily Challenge - Morning:
 [Battle for Middle Earth](https://github.com/IDMiller2020/week5-day3-morning-challenge)
@@ -12,7 +12,7 @@
 <br> <br>
 
 ## Daily Journal:
-## Read Servers with Node/Express > [MongoDb Relationships](https://codeworksacademy.com/fs-student-guide/resources/wk5/02-Relationships/) and answer the following questions
+## Read Servers with Node/Express > [MongoDb Relationships](https://codeworksacademy.com/fs-student-guide/resources/wk5/02-Relationships/) and answer the following questions:
 :
 1. In simple terms what is a sub-document? <br>
 ** <br>
