@@ -16,7 +16,7 @@ _Sprint Planning_
 
 ## Daily Journal:
 
-## Read []() and answer the following questions:
+## Read [Advancing with Vue 3 > Pair Programming](https://codeworksacademy.com/fs-student-guide/resources/wk7/01-PairProgramming/#definition) and answer the following questions:
 
 1. What is Pair Programming? What are the roles and how do they work? <br>
    _Pair programming is when two programmers work together using one computer, keyboard, and monitor. The person typing is called the driver and the other person is called the navigator.The driver should talk about what they are doing as they write the code and the navigator should be engaging in conversation with the driver to help keep the program going in the right direction._ <br>
