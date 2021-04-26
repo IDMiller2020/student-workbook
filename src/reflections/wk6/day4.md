@@ -11,7 +11,7 @@ _Whiteboard Challenges_
 
 ## Daily Challenge - Afternoon:
 
-[Blogger (Partners)]()
+[Blogger (Partners)](https://github.com/IDMiller2020/week5-day4-blog)
 <br> <br>
 
 ## Daily Journal:
@@ -21,10 +21,10 @@ _Whiteboard Challenges_
 :
 
 1. What is a nested route? <br>
-   \*\* <br>
-
+   _Nested routes allow components to be nested multiple levels deep within eachother._ <br>
+   <br>
 2. When might you use a nested route? (other than the provided example)? <br>
-   \*\* <br>
-
+   _For things like navigating from a user to their profile or a user to their posts._ <br>
+   <br>
 3. Can you pass parameters through nested routes? When might you use them? <br>
-   \*\* <br>
+   _Yes, you might use them to do something like _ <br>
