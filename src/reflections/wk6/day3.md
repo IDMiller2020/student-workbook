@@ -20,10 +20,10 @@
 ## Read [Frontend Frameworks with Vue3 > Understanding VueJs Lifecycle Hooks](https://codeworksacademy.com/fs-student-guide/resources/wk6/03-VueLifeCycleHooks/#understanding-creation-hooks-initialization) and answer the following questions:
 
 1. What are lifecycle hooks? What are lifecycle hooks used for? <br>
-   \*\* <br>
-
+   _Lifecycle hooks give you visibility into when a component is created, added to the DOM, updated, or deleted._ <br>
+   <br>
 2. How have you utilized lifcycle hooks in your afternoon projects? <br>
-   \*\* <br>
-
+   _We have utilized onMounted to do things like grab the profile info when a component is loaded._ <br>
+   <br>
 3. What are mounting hooks? When might you use them? <br>
-   \*\* <br>
+   _Mounting hooks are used if you need to access or modify the DOM just before or after the initial render of a component._ <br>
