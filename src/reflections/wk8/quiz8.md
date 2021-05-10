@@ -62,7 +62,7 @@ If it is done correctly it allows for different developers to work on different 
 <!-- enter you answer in the space below -->
 
 ```
-
+Before publishing live.
 ```
 
 **9.** What is the term used to define combining two branches?
