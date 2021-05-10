@@ -37,7 +37,7 @@ env files
 <!-- enter you answer in the space below -->
 
 ```
-Command line: heroku logs
+Command line: heroku logs  or heroku logs --tail
 
 ```
 
