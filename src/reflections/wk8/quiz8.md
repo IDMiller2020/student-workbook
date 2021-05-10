@@ -37,6 +37,7 @@ env files
 <!-- enter you answer in the space below -->
 
 ```
+Command line: heroku logs
 
 ```
 
