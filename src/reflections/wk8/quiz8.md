@@ -46,7 +46,7 @@ Command line: heroku logs  or heroku logs --tail
 <!-- enter you answer in the space below -->
 
 ```
-
+log into heroku, open github repository, deploy to heroku, add heroku/github repository as remote, commit changes and push to heroku.
 ```
 
 **7.** Why is branching important to version control?
